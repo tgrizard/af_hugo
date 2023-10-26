@@ -1,4 +1,4 @@
-baseURL = 'https://peaceful-fox-eb9d34.netlify.app/'
+baseURL = ''
 languageCode = "fr"
 title = 'ARTEFIELDS'
 theme = 'ananke'
